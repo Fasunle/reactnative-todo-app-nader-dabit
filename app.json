@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "official-starter",
+    "slug": "official-starter",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "official-starter"
+}
